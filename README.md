@@ -3,14 +3,14 @@ Mini language to express an octal numbering system
 
 The 8 digits of the Octo octal numbering system are called:
 
-0: ney
-1: mow
-2: zay
-3: baw
-4: vey
-5: low
-6: day
-7: gaw
+0: _ney_
+1: _mow_
+2: _zay_
+3: _baw_
+4: _vey_
+5: _low_
+6: _day_
+7: _gaw_
 
 *n-*, *m-*, *z-*, *b-*, *v-*, *l-*, *d-* and *g-* are pronounced as in Engish.
 
