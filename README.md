@@ -12,8 +12,9 @@ The 8 digits of the Octo octal numbering system are called:
 6: _day_
 7: _gaw_
 
-*n-*, *m-*, *z-*, *b-*, *v-*, *l-*, *d-* and *g-* are pronounced as in Engish.
+The consonants *n-*, *m-*, *z-*, *b-*, *v-*, *l-*, *d-* and *g-* are pronounced as in Engish (they are all voiced).
 
+Vowels and semi-vowels: 
 *-ey* is pronounced as *-ay* in d*ay*
 *-ow* is pronounced as *-ow* in l*ow*
 *-ay* is pronounced as *-y* in wh*y*
@@ -30,16 +31,17 @@ The structure and relations are as follow:
 - Digits 3 (baw) and 6 (day) both start with a stop (*b-* and *d-*), since 6 is the double of 3.
 - Digits 2 (zaw) and 6 (day) both start with a dental (*z-* and *d-*), since 6 is the triple of 2.
 - Digits 3 (baw) and 4 (vey) both start with a labial (*b-* and *v-*), since together they add up to the highest digit (7).
+- The group of four digits that have most internal relations are all the four dental and labial sibilants and stops (*z-, v-, d-, b-*), so have similar internal phonetic structure.
 - The prime digits 5 (low) and 7 (gaw) which cannot be derived from or related to the other digits start with distinct types of phonetic sounds: a lateral (*l-*) and a guttural stop (*g-*). 
 
 ## Higher numbers
 
 Numbers bigger than 1 digit can be expressed by adding *-ni* (pronounced *-nee*), which is derived from *-ney* (0), to a base digit expressing the number of 0's in the number (i.e., how big the number is); this base is then added to the actual number, which represents the multiplier for that base. Example:
-10: mow-mowni
+10: *mow-mowni*
 means one times ten, where mowni actually means one 0 (10 has one 0).
 
 To have more than one non-zero digit in a number just append them from highest to lowest, representing addition. Example:
-11: mow-mowni mow
+11: *mow-mowni mow*
 means (one times ten) plus one.
 In compound numbers the stress falls on the first syllable, e.g., in *zay-mowni* (20) the *zay* is stressed.
 
@@ -49,6 +51,7 @@ The first 8 numbers are actually shortened versions of the full versions which a
 
 To express even higher numbers (octal *100000000* and above) use *-mu* (pronounced *-moo*), which is derived from *-mow* (1), to the base digit, starting at *ney*. Example: 
 100000000: *mow-neymu* (neymow)
+
 7777777777777777 (16 digits) is the highest possible number than can be expressed in Octo this way (more than 200 trillion in decimal).
 
 ## Examples
@@ -73,7 +76,7 @@ To express even higher numbers (octal *100000000* and above) use *-mu* (pronounc
 
 10000000: mow-gawni
 
-100000000: mow-neymu (neymow)
+100000000: mow-neymu
 
 1000000000: mow-mowmu
 
