@@ -4,6 +4,7 @@ Mini language to express an octal numbering system
 The 8 digits of the Octo octal numbering system are called:
 
  0   1   2   3   4   5   6   7
+
 ney mow zay baw vey low day gaw
 
 *n-*, *m-*, *z-*, *b-*, *v-*, *l-*, *d-* and *g-* are pronounced as in Engish.
